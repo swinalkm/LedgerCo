@@ -1,0 +1,2 @@
+﻿5000 1 6 LOAN IDIDI Dale
+10000 3 LOAN MBI Harry 7 
