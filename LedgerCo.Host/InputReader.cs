@@ -41,7 +41,7 @@ namespace geektrust_family_demo
 
         private static void ReadLoan(List<Loan> loans, string[] words)
         {
-            loans.Add(new Loan(words[1], words[2], Parser.ParseDecimal(words, 3), Parser.ParseInt(words, 4), Parser.ParseDecimal(words, 5)));
+            loans.Add(new Loan(words[1], words[2], Parser.ParseDecimal(words, 3), Parser.ParseDecimal(words, 4), Parser.ParseDecimal(words, 5)));
         }
         private static void ReadBalance(List<Balance> balances, string[] words)
         {

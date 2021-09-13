@@ -28,3 +28,4 @@ C:\Users\swinal\Desktop\up\LedgerCo\geektrust\geektrust.runtimeconfig.json
 C:\Users\swinal\Desktop\up\LedgerCo\geektrust\geektrust.runtimeconfig.dev.json
 C:\Users\swinal\Desktop\up\LedgerCo\geektrust\geektrust.dll
 C:\Users\swinal\Desktop\up\LedgerCo\geektrust\geektrust.pdb
+C:\Users\swinal\Desktop\up\LedgerCo\LedgerCo.Host\obj\Debug\netcoreapp2.1\LedgerCo.Host.csprojAssemblyReference.cache
